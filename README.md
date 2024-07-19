@@ -29,9 +29,6 @@ I enjoy participating in **Capture The Flag (CTF)** competitions, which allow me
 ### [Mechanical Nexus](https://littleflame.itch.io/mechanical-nexus)
 A game developed using Unity 2D, showcasing my skills in game development and design.
 
-### [Project Name](https://github.com/username/project)
-Brief description of the project.
-
 ## 📈 GitHub Stats
 
 ![Michele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
