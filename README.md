@@ -1,10 +1,10 @@
 # Michele Ferrari
 
-![Profile Banner](https://example.com/banner.png)
-
 ## 👋 About Me
 
 Hello! I'm Michele Ferrari, a high school senior with a passion for **cyber security**. Despite my limited formal work experience, I've proactively expanded my skills through various Coursera courses, earning certificates that reflect my dedication and commitment to pursuing a career in this dynamic field. My career goals are ambitious, aiming for prominent positions in the cyber security sector.
+
+I enjoy participating in **Capture The Flag (CTF)** competitions, which allow me to apply and enhance my cyber security skills in practical scenarios.
 
 - 🎓 **Education**: ITIS Silva Ricci, Legnago (Current High School Senior)
 - 📚 **Languages**: Italian (Native), English (B2), Chinese (Beginner)
