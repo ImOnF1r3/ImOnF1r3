@@ -32,15 +32,6 @@ A game developed using Unity 2D, showcasing my skills in game development and de
 ### [Project Name](https://github.com/username/project)
 Brief description of the project.
 
-## 🏆 Awards & Recognitions
-
-- **June 2024**: Internship at Giordano Controls S.P.A.
-
-## 🌐 Contact
-
-- **GitHub**: [github.com/username](https://github.com/username)
-- **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/username)
-
 ## 📈 GitHub Stats
 
 ![Michele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
