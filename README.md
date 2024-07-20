@@ -6,7 +6,7 @@ Hello! I'm Michele Ferrari, a high school senior with a passion for **cyber secu
 
 I enjoy participating in **Capture The Flag (CTF)** competitions, which allow me to apply and enhance my cyber security skills in practical scenarios.
 
-- 🎓 **Education**: ITIS Silva Ricci, Legnago (Current High School Senior)
+- 🎓 **Education**: Current High School Senior
 - 📚 **Languages**: Italian (Native), English (B2), Chinese (Beginner)
 - 🥋 **Hobbies**: Karate, Volleyball, Photography, Guitar, Cooking
 
