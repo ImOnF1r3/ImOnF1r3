@@ -10,14 +10,13 @@ I enjoy participating in **Capture The Flag (CTF)** competitions, which allow me
 - 📚 **Languages**: Italian (Native), English (B2), Chinese (Beginner)
 - 🥋 **Hobbies**: Karate, Volleyball, Photography, Guitar, Cooking
 
-## 💼 Professional Skills
+## 💼 My Skills
 
 - **Cyber Security**
 - **Programming**: Python, C, C#, HTML, CSS, Java, JavaScript, Batch
 - **Software Development**
 - **Game Development**
 - **Graphics & 3D Modeling**: LightRoom, Photoshop, Blender 3D
-- **Tools**: Wireshark, Nmap, BurpSuite, Metasploit, Sqlmap
 
 ## 📜 Certifications
 
