@@ -13,7 +13,7 @@ I enjoy participating in **Capture The Flag (CTF)** competitions, which allow me
 ## 💼 Professional Skills
 
 - **Cyber Security**
-- **Programming**: Python, C, C#, HTML, CSS, JavaScript, Batch
+- **Programming**: Python, C, C#, HTML, CSS, Java, JavaScript, Batch
 - **Software Development**
 - **Game Development**
 - **Graphics & 3D Modeling**: LightRoom, Photoshop, Blender 3D
