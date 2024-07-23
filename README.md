@@ -1,4 +1,3 @@
-# Michele Ferrari
 
 ## 👋 About Me
 
