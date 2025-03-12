@@ -29,7 +29,7 @@ A game developed using Unity 2D, showcasing my skills in game development and de
 
 ## 📈 GitHub Stats
 
-![Michele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Michele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImOnF1r3&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
 
