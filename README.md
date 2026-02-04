@@ -34,6 +34,3 @@ A game developed using Unity 2D, showcasing my skills in game development and de
 ## 📫 How to reach me:
 
 Feel free to reach out via [email](mailto:ferrarimichele.root@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/michele-ferrari-53781a31a).
----
-
-*This README was generated with ❤️ by Michele Ferrari.*
